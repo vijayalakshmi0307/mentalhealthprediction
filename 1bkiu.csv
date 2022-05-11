@@ -1,0 +1,78 @@
+Heart rate,Fatigue,Blood Pressure,guilt,shivering,over sleeping,Genetic disorder,sleeplessness,Trauma,Headache,prognosis
+1,1,1,0,0,0,0,0,0,0,Anxiety
+0,1,1,0,0,0,0,0,0,0,Anxiety
+1,0,1,0,0,0,0,0,0,0,Anxiety
+1,1,0,0,0,0,0,0,0,0,Anxiety
+1,1,1,0,0,0,0,0,0,0,Anxiety
+0,1,1,0,0,0,0,0,0,0,Anxiety
+1,0,1,0,0,0,0,0,0,0,Anxiety
+1,1,0,0,0,0,0,0,0,0,Anxiety
+1,1,1,0,0,0,0,0,0,0,Anxiety
+1,1,1,0,0,0,0,0,0,0,Anxiety
+0,0,0,1,1,1,0,0,0,0,Anxiety
+0,0,0,1,0,1,0,0,0,0,Major Depression
+0,0,0,1,0,1,0,0,0,0,Major Depression
+0,0,0,1,0,1,0,0,0,0,Major Depression
+0,0,0,1,0,1,0,0,0,0,Major Depression
+0,0,0,1,0,1,0,0,0,0,Major Depression
+0,0,0,1,0,1,0,0,0,0,Major Depression
+0,0,0,1,0,1,0,0,0,0,Major Depression
+0,0,0,1,0,1,0,0,0,0,Major Depression
+1,0,0,1,0,0,1,0,1,1,Major Depression
+0,1,0,1,0,1,1,1,1,1,Major Depression
+1,1,0,0,1,0,1,1,0,1,Major Depression
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,0,0,0,0,0,0,1,1,0,Persistent depressive disorder
+0,1,0,1,1,0,0,0,0,1,Persistent depressive disorder
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+1,0,0,0,0,0,0,0,0,0,Dysthymia
+0,1,0,1,0,1,0,1,0,1,Dysthymia
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+1,1,0,0,0,0,0,1,0,1,Drug Reaction
+0,1,1,0,0,1,1,0,1,1,Drug Reaction
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+0,0,0,0,0,0,0,0,0,0,depressive disorder
+1,1,1,0,0,1,0,1,1,1,depressive disorder
+0,0,0,0,0,0,0,0,0,0,Bipolar Disorder
+0,0,0,0,0,0,0,0,0,0,Bipolar Disorder
+0,0,0,0,0,0,0,0,0,0,Bipolar Disorder
+0,0,0,0,0,0,0,0,0,0,Bipolar Disorder
+0,0,0,0,0,0,0,0,0,0,Bipolar Disorder
+0,0,0,0,0,0,0,0,0,0,Bipolar Disorder
+1,0,0,0,0,0,0,0,0,0,Bipolar Disorder
+1,0,0,1,1,0,0,1,1,1,Bipolar Disorder
+0,0,1,0,1,0,1,0,1,1,Bipolar Disorder
+0,1,0,1,0,1,1,0,1,1,Bipolar Disorder
+1,1,1,0,0,1,1,0,0,1,Bipolar Disorder
